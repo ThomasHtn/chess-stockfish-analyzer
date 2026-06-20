@@ -2,6 +2,8 @@
 
 A modern Streamlit app that analyzes a Chess.com PGN with Stockfish and displays the recommended move, candidate moves, and before/after boards.
 
+![1781963079756](image/README/1781963079756.png)
+
 ## Features
 
 - Paste a PGN directly from Chess.com
